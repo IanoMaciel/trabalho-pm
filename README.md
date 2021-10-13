@@ -36,7 +36,7 @@ https://github.com/IanoMaciel/trabalho3-pm.git
 
 **2. Entre no diretório** 
 ~~~
-cd Localiza_municipio
+cd trabalho3-pm
 ~~~
 
 **3. Execute utilizando o comando abaixo**
